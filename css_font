@@ -1,0 +1,6 @@
+@font-face {
+ font-family: MedievalSharp;
+ font-style: normal;
+ font-weight: 400;
+ src: url(https://github.com/Dedalo003/worldanvil_fonts/blob/main/MedievalSharp/MedievalSharp-Regular.ttf) ;
+}
