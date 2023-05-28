@@ -2,5 +2,5 @@
  font-family: MedievalSharp;
  font-style: normal;
  font-weight: 400;
- src: url(https://rawcdn.githack.com/Dedalo003/worldanvil_fonts/main/MedievalSharp/MedievalSharp-Regular.ttf) ;
+ src: url(https://rawcdn.githack.com/Dedalo003/worldanvil_fonts/425cd4f6bf8d00cc9b3643197d94c8a5c7153b58/MedievalSharp/MedievalSharp-Regular.ttf) ;
 }
